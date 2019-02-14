@@ -5,3 +5,5 @@ This app shows the total size of queue for Langara college's food court restaura
 - React-native
 - Socket.io
 
+<img src="1.jpg" width="250" title="Image 1"/> <img src="2.jpg" width="250" title="Image 2"/> <img src="3.jpg" width="250" title="Image 3"/>
+<img src="gif.gif" width="250" title="Gif"/>
